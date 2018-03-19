@@ -1,20 +1,16 @@
 ## Harmonizing The Theoretical with Practical
 
-You can use the [editor on GitHub](https://github.com/ashishtheaegis/aegistheashish.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About My Love :
+I love the beauty of the theory of Programming languages, the underlying mathematical structures and results, at the same time I get awestruck with the complexities revolving around problems in real world softwares. Ergo the harmonization, the love truely is liberating.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me :
+I am trying to understand, reason about and transform the more practial aspects of programming languages associated with a not so structured (in the sense of design) and extremely powerful language called [https://www.javascript.com/](Javascript) at the [http://prl.ccs.neu.edu/] (Northeastern PRL) group as a Postdoc working with [http://www.franktip.org/] Prof Frank Tip. 
+Before moving to "The States" I was writing my disseration on verifying behavioral properties of complex programs.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+### Publications
 - Bulleted
 - List
 
