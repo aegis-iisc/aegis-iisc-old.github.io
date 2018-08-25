@@ -6,18 +6,16 @@ I love the beauty of the theory of Programming languages, the underlying mathema
 
 
 ### About Me :
-I am trying to understand, reason about and transform the more practial aspects of programming languages associated with a not so structured (in the sense of design) and extremely powerful language called [https://www.javascript.com/](Javascript) at the [http://prl.ccs.neu.edu/] (Northeastern PRL) group as a Postdoc working with [http://www.franktip.org/] Prof Frank Tip. 
-Before moving to "The States" I was writing my disseration on verifying behavioral properties of complex programs.
+I am currently at the [http://prl.ccs.neu.edu/] (Northeastern PRL) group as a Postdoc working with [http://www.franktip.org/] Prof Frank Tip. Before moving to "The States" I was writing my disseration on verifying behavioral properties of complex programs.
+I am trying to comprehend, reason, analyze, programs written by real-world developers and design programming languages and language features and models to aid them write safe and correct programs. Towards this goal, I am analyzing, reasoning and working of few interesting languages and models like, [https://www.javascript.com/](Javascript), Android, Plaid, etc.  
+
+
 
 
 ### Publications
-- Bulleted
-- List
+- A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.
+- Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
