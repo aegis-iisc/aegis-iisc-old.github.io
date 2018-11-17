@@ -6,7 +6,7 @@ I love the beauty of the theory of Programming languages, the underlying mathema
 
 
 ### About Me :
-I am currently at the [Link](http://prl.ccs.neu.edu/) (Northeastern PRL) group as a Postdoc working with [Link](http://www.franktip.org/) Prof Frank Tip. Before moving to "The States" I was writing my disseration on verifying behavioral properties of complex programs.
+I am currently at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as a Postdoc working with [Prof Frank Tip](http://www.franktip.org/). Before moving to "The States" I was writing my disseration on verifying behavioral properties of complex programs.
 I am trying to comprehend, reason, analyze, programs written by real-world developers and design programming languages and language features and models to aid them write safe and correct programs. Towards this goal, I am analyzing, reasoning and working of few interesting languages and models like, [https://www.javascript.com/](Javascript), Android, Plaid, etc.  
 
 
