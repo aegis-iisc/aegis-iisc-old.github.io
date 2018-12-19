@@ -1,6 +1,6 @@
 ## Harmonizing The Theoretical with Practical
 
-### About My Love :
+### About My Ineterests : 
 I love the beauty of the theory of Programming languages, the underlying mathematical structures and results, at the same time I get awestruck with the complexities revolving around problems in real world softwares. Ergo the harmonization, the love truely is liberating.  
 
 
