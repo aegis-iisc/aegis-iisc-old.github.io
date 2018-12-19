@@ -12,8 +12,8 @@ I am trying to comprehend, reason, analyze, programs written by real-world devel
 
 
 ### Professional Experience Post/During/Pre PhD
-- Febraury Postdoctoral Fellow, Programming Research Laboratory, CCIS, Northeastern University,
-2018–now Boston, MA.
+- [Febraury 2018 - now], Postdoctoral Fellow, Programming Research Laboratory, CCIS, Northeastern University,
+				 Boston, MA.
 Advisor: Frank Tip
 - 2012–2014 Student System Administrator, Department of Computer Science and Automation,
 Indian Institute of Science, Bangalore, India.
