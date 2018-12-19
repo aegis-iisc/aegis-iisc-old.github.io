@@ -28,7 +28,7 @@ Worked in Knowledge Based Computing Group.
 - [Under Submission] Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. arXiv:1712.08753 [cs.PL]
 
 ### Talks and Posters
-- Talk Analysis and verification of rich typestate properties for complex programs. ECOOP
+- \textbf{Talk} Analysis and verification of rich typestate properties for complex programs. ECOOP
 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 - Talk Lambda Calculus, the core of Functional Programming Languages, Fourth Under-
 graduate Summer School, 2016, Indian Institute of Science, Bangalore, India.
@@ -38,7 +38,7 @@ graduate Summer School, 2016, Indian Institute of Science, Bangalore, India.
 Indian Institute of Technology, Kanpur, India.
 
 ### Teaching
--Fall ’16 TA for the graduate level course on Programming Language Design and Implementa-
+- Fall ’16 TA for the graduate level course on Programming Language Design and Implementa-
 tion, Indian Institute of Science.
 
 
