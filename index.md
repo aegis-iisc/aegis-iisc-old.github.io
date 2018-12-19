@@ -1,4 +1,8 @@
 
+----------
+layout: 'page'
+----------
+
 # Ashish Mishra
 
 ## Harmonizing The Theoretical with Practical
