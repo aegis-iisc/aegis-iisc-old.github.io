@@ -56,18 +56,19 @@ Mathematics of Birmingham, United Kingdom (Awarded full funding to attend the wo
 
 ### I am beyond my achievements as well :
 #### Books I love
-##### Biographies :
-I love to read. I find fiction less vivid than the reality of non-fictional characters. My favorite are the Biographies. Here is a list of the few I most recently read/reading-
-* Ali
-* Steve Jobs
-* Ambedkar
-* Gandhi
-* Lincoln
-* Kissinger
+	- **Biographies** :
+	I love to read. I find fiction less vivid than the reality of non-fictional characters. My favorite are the Biographies. Here is a list of the few I most recently read/reading-
+		* Ali
+		* Steve Jobs
+		* Ambedkar
+		* Gandhi
+		* Lincoln
+		* Kissinger
 
-##### Others :
+	- **Others** : My [goodReads](https://www.goodreads.com/user/show/30126747-ashish-mishra)
 
 
 #### Ideas I write about : I am what I believe in 
+	- My [Wordpress Blog](https://augustashish.wordpress.com/)
 
 
