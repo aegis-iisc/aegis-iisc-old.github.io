@@ -64,10 +64,10 @@ Mathematics of Birmingham, United Kingdom (Awarded full funding to attend the wo
 	- Lincoln
 	- Kissinger
 
-- **Others** : My [goodReads](https://www.goodreads.com/user/show/30126747-ashish-mishra)
+- **Others** : My [goodReads](https://www.goodreads.com/user/show/30126747-ashish-mishra) Profile.
 
 
 #### Ideas I write about : I am what I believe in 
-	- My [Wordpress Blog](https://augustashish.wordpress.com/)
+- My [Wordpress](https://augustashish.wordpress.com/) Blog
 
 
