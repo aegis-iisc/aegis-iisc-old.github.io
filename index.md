@@ -6,13 +6,12 @@ layout: default
 
 
 ### My Ineterests : 
-I love Programming languages, its underlying mathematical structures and results. Concurrently, I like to reason about the behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. I am interested in simplifying the complexities revolving around problems in reasoning about real world softwares. 
-
+I love Programming languages and its underlying mathematical structures. Concurrently, I like to reason about the behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. I am interested in simplifying the complexities revolving around problems in reasoning about real world softwares and designing programming languages and language features and models to aid them in writing safe and correct programs. Towards these goals, I am currently working on a few interesting ideas in topics related to [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
 
 
 ### Me :
-I am currently at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as a Postdoc working with [Prof Frank Tip](http://www.franktip.org/). Before moving to Northeastern, I was writing my disseration on verifying behavioral properties of complex programs at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
-I am trying to comprehend, reason, analyze, programs written by real-world developers and design programming languages and language features and models to aid them write safe and correct programs. Towards this goal, I am analyzing, reasoning and working of few interesting languages and models like, [JavaScript](https://www.javascript.com/), Android, Plaid, etc.  
+I am currently at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as a Postdoc working with [Prof Frank Tip](http://www.franktip.org/). Before moving to Northeastern, I was writing my PhD disseration on __verifying behavioral properties of complex programs__ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/). Even before that, I was doing some machine learning at CDAC Mumbai, when every body else was not as interested in ML apparently.
+  
 
 
 ### Professional Experience Post/During/Pre PhD :
