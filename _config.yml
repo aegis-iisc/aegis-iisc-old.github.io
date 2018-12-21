@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 logo: /images/dp.jpg
 title: [Ashish Mishra]
 description: [PhD Computer Science (Programming Languages)]
-show_downloads: true
+google_analytics:
 
