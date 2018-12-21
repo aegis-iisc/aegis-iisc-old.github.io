@@ -10,7 +10,7 @@ I love Programming languages and its underlying mathematical structures. Concurr
 
 
 ### Me :
-I am currently at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as a Postdoc working with [Prof Frank Tip](http://www.franktip.org/). Before moving to Northeastern, I was writing my PhD disseration on __verifying behavioral properties of complex programs__ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/). Even before that, I was doing some machine learning at CDAC Mumbai, when every body else was not as interested in ML apparently.
+I am currently at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as a Postdoc working with [Prof Frank Tip](http://www.franktip.org/). Before moving to Northeastern, I was writing my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/). Even before that, I was doing some machine learning at CDAC Mumbai, when every body else was not as interested in ML apparently.
   
 
 
@@ -53,3 +53,21 @@ Mathematics of Birmingham, United Kingdom (Awarded full funding to attend the wo
 ### Volunteer Professional Activities :
 - Workshop Proceedings Committee, ECOOP/ISSTA ’18 Companion Workshops.
 - Student Volunteer ECOOP ’2017.
+
+### I am beyond my achievements as well :
+#### Books I love
+##### Biographies :
+I love to read. I find fiction less vivid than the reality of non-fictional characters. My favorite are the Biographies. Here is a list of the few I most recently read/reading-
+* Ali
+* Steve Jobs
+* Ambedkar
+* Gandhi
+* Lincoln
+* Kissinger
+
+##### Others :
+
+
+#### Ideas I write about : I am what I believe in 
+
+
