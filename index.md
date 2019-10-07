@@ -2,11 +2,11 @@
 layout: default
 ---
 
-> Harmonizing The Theoretical with Practical
+> Harmonizing the Theoretical with Practical
 
 
 ### Ineterests : 
-I love Programming languages and its underlying mathematical structures. I like to reason about the behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. Towards these goals, I am currently working on a few interesting ideas in topics related to [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
+I love Programming languages and its underlying mathematical structures. I like to reason about behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. Towards these goals, I am currently working on a few interesting ideas in topics related to Program Verification, Program Analysis for [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
 
 
 ### Me :
@@ -54,7 +54,7 @@ Mathematics of Birmingham, United Kingdom (Awarded full funding to attend the wo
 - Workshop Proceedings Committee, ECOOP/ISSTA ’18 Companion Workshops.
 - Student Volunteer ECOOP ’2017.
 
-### I am beyond my achievements as well :
+### Beyond Computer Science :
 #### Books I love
 - **Biographies** : I love to read. I find fiction less vivid than the reality of non-fictional characters. My favorite are the Biographies. Here is a list of the few I most recently read/reading-
 	- Ali
