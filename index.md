@@ -6,11 +6,11 @@ layout: default
 
 
 ### Ineterests : 
-I love Programming languages and its underlying mathematical structures. I like to reason about the behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. I am interested in simplifying the complexities revolving around problems in reasoning about real world softwares and designing programming languages and language features and models to aid them in writing safe and correct programs. Towards these goals, I am currently working on a few interesting ideas in topics related to [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
+I love Programming languages and its underlying mathematical structures. I like to reason about the behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. Towards these goals, I am currently working on a few interesting ideas in topics related to [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
 
 
 ### Me :
-I am currently at the Purdue PL (PuRPL) group, working as a postdoctoral associate with [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year at the [Northeastern PRL](http://prl.ccs.neu.edu/) group as with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I was writing my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+I am currently at the Purdue PL (PuRPL) group, working as a postdoctoral associate in areas related to Program Verification and Functional Programming with [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I was writing my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
 
 
