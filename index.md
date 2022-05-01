@@ -5,16 +5,25 @@ layout: default
 > Harmonizing the Theoretical with Practical
 
 
-### Ineterests : 
-I love Programming languages and its underlying mathematical structures. I like to reason about behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. Towards these goals, I am currently working on a few interesting ideas in topics related to Program Verification, Program Analysis for [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc.
+<!-- ### Ineterests : 
+I love Programming languages and its underlying mathematical structures. I like to reason about behaviours of Programs using theories and tools from Program Analysis, Formal Methods of Verification, Logic, Type systems, etc. Towards these goals, I am currently working on a few interesting ideas in topics related to Program Verification, Program Analysis for [JavaScript](https://www.javascript.com/), ~~Android~~, Plaid, Dependent Types, Typestates, etc. -->
 
 
-### Me :
-I am currently at the Purdue PL (PuRPL) group, working as a postdoctoral associate in areas related to Program Verification and Functional Programming with [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I was writing my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+### About Me :
+I am a Postdoc at Purdue University working with  [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I did my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
 
+I am interested in developing techniques and tools to help developers build reliable, secure and efficient software. In this context, I am especially interested in building 
+Program Analysis and Verification tools, designing Programming Languages, and developing Automated Program Synthesis techniques for programs with effects, dynamic features and asynchronus semantics.
 
-### Professional Experience Post/During/Pre PhD :
+Recently, I have worked on developing a component-based Program Synthesis technique to synthesize 
+correct programs using effectful libraries. Previously, I have worked on desiging a Domain Specific Language with support for rich Refinement Types to reason about correctness of Effectful Parser Combinator Programs. Before that I have also developed static and dynamic program analysis techniques for Android and Javascript proggrams.  
+<!-- 
+I am a Postdoc in Purdue University working as a postdoctoral associate in areas related to Program Verification and Functional Programming with [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I was writing my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+   -->
+
+
+<!-- ### Professional Experience Post/During/Pre PhD :
 
 * **Febraury 2018-March 2019** - Postdoctoral Fellow, Programming Research Laboratory, CCIS, Northeastern University,
 				 Boston, MA.
@@ -23,12 +32,22 @@ Indian Institute of Science, Bangalore, India.
 * **2010-2011** -  Project Engineer, Center for Development of Advanced Computing (CDAC), Mumbai,
 	India.
 Worked in Knowledge Based Computing Group.
-
+ -->
 
 ### Publications :
-* A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.
+* _Under Submission_  Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
+		
+* _Under Submission_ Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.
+		
+* _Under Submission_ Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
+		
+* _Under Submission_ (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. 
+
 * Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
-* _Under Submission_ Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. arXiv:1712.08753 [cs.PL]
+
+* A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.
+
+* _Unpublished Manuscript_ Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. arXiv:1712.08753 [cs.PL]
 
 ### Talks and Posters :
 - **Talk** - Analysis and verification of rich typestate properties for complex programs. ECOOP
