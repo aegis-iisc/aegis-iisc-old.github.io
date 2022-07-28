@@ -37,17 +37,17 @@ Worked in Knowledge Based Computing Group.
 ### Publications : Under Review or Published :
 * _Under Submission_  Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
 		
-* _Under Submission_ Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.
-		
 * _Under Submission_ Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
-		
-* _Under Submission_ (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. 
+
+* (Accepted OOPSLA'22) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.
+
+* (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. 
 
 * Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 
 * A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.
 
-### Forgotten :
+### Unpublished Manuscript :
 
 * _Unpublished Manuscript_ Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. arXiv:1712.08753 [cs.PL]
 
