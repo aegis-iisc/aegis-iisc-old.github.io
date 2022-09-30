@@ -10,7 +10,7 @@ I love Programming languages and its underlying mathematical structures. I like 
 
 
 ### About Me :
-I am a Postdoc at Purdue University working with  [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/). Prior to that, I did my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
+I am a Postdoc at Purdue University working with  [Prof Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). Before this, I have worked for an year on Program Analysis for JS with [Prof Frank Tip](http://www.franktip.org/).I did my PhD disseration on _verifying behavioral properties of complex programs_ at [Indian Institute of Science, India](https://www.csa.iisc.ac.in/) under the guidance of [Prof. Y. N. Srikant](https://drona.csa.iisc.ac.in/~srikant/).
   
 
 I am interested in developing techniques and tools to help developers build reliable, secure and efficient Software. In this context, I am especially interested in building 
@@ -35,23 +35,29 @@ Worked in Knowledge Based Computing Group.
  -->
 
 ### Publications : Under Review or Published :
-* _Under Submission_  Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
+* (Under Submission)  Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
 		
-* _Under Submission_ Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
+* (Under Submission) Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
 
-* (Accepted OOPSLA'22) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.
+* (OOPSLA'22) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.[pdf](https://arxiv.org/abs/2209.02752)
 
-* (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. 
+* (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip.[pdf](https://link.springer.com/article/10.1007/s10664-022-10195-6) 
 
 * Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 
-* A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.
+* A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.[pdf](https://ieeexplore.ieee.org/abstract/document/7797761/)
 
 ### Unpublished Manuscript :
 
-* _Unpublished Manuscript_ Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. arXiv:1712.08753 [cs.PL]
+* Unpublished Manuscript Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates.[pdf](https://arxiv.org/abs/1712.08753)
 
 ### Talks and Posters :
+- **Virtual Invited Talk** Specification-Guided Component-Based Synthesis from Effectful Libraries, IIT Ropar, India, September 2022.
+
+- **Virtual Invited Talk** Specification-Guided Component-Based Synthesis from Effectful Libraries, Software Engineering Research in India (SERI) 2022-23 Talk Series. August 2022.
+
+- **Virtual Talk** Building Reliable Software Using PL Techniques}, Siemens Technology Labs, India. July 2022.
+			     
 - **Talk** - Analysis and verification of rich typestate properties for complex programs. ECOOP
 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 - **Talk** - Lambda Calculus, the core of Functional Programming Languages, Fourth Under-
