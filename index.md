@@ -23,7 +23,7 @@ correct programs using effectful libraries. Previously, I have worked on designi
 
 * (**Journal of Empirical Software Engineering' 22**) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. ([pdf](https://link.springer.com/article/10.1007/s10664-022-10195-6)) 
  
-* (**Thesis**) Ashish Mishra, Typestates and Beyond: Verifying Rich Behavioral Properties Over Complex Programs. January 2018  
+* (**Thesis**) Ashish Mishra, Typestates and Beyond: Verifying Rich Behavioral Properties Over Complex Programs. January 2018. ([pdf](https://www.csa.iisc.ac.in/~srikant/papers-theses/Ashish-PhD-thesis.pdf))  
 
 * (**ArXiv**) Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. ([pdf](https://arxiv.org/abs/1712.08753))
 
