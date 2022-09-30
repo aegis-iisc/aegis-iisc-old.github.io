@@ -14,24 +14,25 @@ Recently, I have worked on developing a component-based program synthesis tool (
 correct programs using effectful libraries. Previously, I have worked on designing a domain-specific language (**Morpheus**) with support for rich refinement types to reason about the correctness of effectful Parser Combinator programs. Before that, I also developed static and dynamic program analysis techniques for Android (**AsyncDroid**) and Javascript programs (**Stubbifier**).  
 
 
-### Publications : Under Review or Published :
-* (Under Submission)  Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
+### Publications : Published/Submitted :
+* (submitted) Refined Symbolic Transducers. Ashish Mishra, Suresh Jagannathan.
 		
-* (Under Submission) Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
+* (submitted) Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
 
 * (**OOPSLA' 22**) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan. ([pdf](https://arxiv.org/abs/2209.02752))
 
 * (**Journal of Empirical Software Engineering' 22**) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. ([pdf](https://link.springer.com/article/10.1007/s10664-022-10195-6)) 
  
+* (**Thesis**) Ashish Mishra, Typestates and Beyond: Verifying Rich Behavioral Properties Over Complex Programs. January 2018  
+
+* (**ArXiv**) Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. ([pdf](https://arxiv.org/abs/1712.08753))
+
 * (**ECOOP Doctoral Symposium' 17**) Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 
 * (**MEMOCODE' 16**) A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016. ([pdf](https://ieeexplore.ieee.org/abstract/document/7797761/))
 
-### Unpublished Manuscript :
 
-* (**ArXiv**) Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. ([pdf](https://arxiv.org/abs/1712.08753))
-
-### Talks and Posters :
+### Talks :
 - **Virtual Invited Talk** Specification-Guided Component-Based Synthesis from Effectful Libraries, IIT Ropar, India, September 2022.
 
 - **Virtual Invited Talk** Specification-Guided Component-Based Synthesis from Effectful Libraries, Software Engineering Research in India (SERI) 2022-23 Talk Series. August 2022.
