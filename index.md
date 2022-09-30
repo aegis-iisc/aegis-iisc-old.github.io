@@ -39,17 +39,17 @@ Worked in Knowledge Based Computing Group.
 		
 * (Under Submission) Morpheus: Automated Type-Based Verification of Parser Combinator Programs.Ashish Mishra, Suresh Jagannathan.
 
-* (OOPSLA'22) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan.[pdf](https://arxiv.org/abs/2209.02752)
+* (**OOPSLA'22**) Specification-Guided Component-Based Synthesis from Effectful Libraries. Ashish Mishra, Suresh Jagannathan. ([pdf](https://arxiv.org/abs/2209.02752))
 
-* (Journal of Empirical Software Engineering) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip.[pdf](https://link.springer.com/article/10.1007/s10664-022-10195-6) 
+* (**Journal of Empirical Software Engineering**) Stubbifier: Debloating Dynamic JavaScript Applications. Alexi Turcotte, Ellen Arteca, Ashish Mishra, Saba Alimadadi, Frank Tip. ([pdf](https://link.springer.com/article/10.1007/s10664-022-10195-6)) 
+ 
+* (**ECOOP' 2017 Doctoral Syymposium**) Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
 
-* Ashish Mishra and Y. N. Srikant. Analysis and verification of rich typestate properties for complex programs. ECOOP 2017 Doctoral Symposium. June 18, 2017. Barcelona, Spain, 2017.
-
-* A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016.[pdf](https://ieeexplore.ieee.org/abstract/document/7797761/)
+* (**MEMOCODE**) A. Mishra, A. Kanade, and Y. N. Srikant. Asynchrony-aware static analysis of android applications. In 2016 ACM/IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), pages 163-172, Nov 2016. ([pdf](https://ieeexplore.ieee.org/abstract/document/7797761/))
 
 ### Unpublished Manuscript :
 
-* Unpublished Manuscript Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates.[pdf](https://arxiv.org/abs/1712.08753)
+* (**ArXiv**) Ashish Mishra, Deepak D’souza and Y. N. Srikant. Presburger-definable Typestates. ([pdf](https://arxiv.org/abs/1712.08753))
 
 ### Talks and Posters :
 - **Virtual Invited Talk** Specification-Guided Component-Based Synthesis from Effectful Libraries, IIT Ropar, India, September 2022.
