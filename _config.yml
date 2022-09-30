@@ -1,8 +1,10 @@
 theme: jekyll-theme-minimal
 logo: /images/dp.jpg
 title: [Ashish Mishra]
-description: [Postdoc Purdue, PL]
-contact: [mishr115@purude.edu]
+job_title: [Postdoc, Purdue, PurPL]  
+description: [Interested in programming languages, program synthesis and verification]
+email: [mishr115@purude.edu]
+show_email: [true]        
 google_analytics:
   
 
