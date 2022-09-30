@@ -3,7 +3,7 @@ logo: /images/dp.jpg
 title: [Ashish Mishra]
 job_title: [Postdoc, Purdue, PurPL]  
 description: [Interested in programming languages, program synthesis and verification]
-show_email: ["true"]        
+show_email: [-1]        
 email: [mishr115@purude.edu]
 google_analytics:
   
