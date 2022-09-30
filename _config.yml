@@ -1,10 +1,12 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins: 
+       - jekyll-remote-theme        
 logo: /images/dp.jpg
 title: [Ashish Mishra]
 job_title: [Postdoc, Purdue, PurPL]  
 description: [Interested in programming languages, program synthesis and verification]
-show_email: 1        
-email: mishr115@purude.edu
+show_email: [true]        
+email: [mishr115@purude.edu]
 google_analytics:
   
 
